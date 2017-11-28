@@ -1,0 +1,2 @@
+# duck
+java learning project
